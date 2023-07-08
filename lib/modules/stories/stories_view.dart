@@ -101,11 +101,11 @@ class StoriesView extends StatelessWidget {
                       shadowColor: Clr.colorBlack.withOpacity(0.08),
                       shadowOffset: const Offset(0, 10),
                     ),
-                    height: 128,
+                    height: 120,
                     child: Column(
                       children: [
                         Container(
-                          height: 120,
+                          height: 112,
                           width: 144,
                           decoration: pBoxDecoration(
                             color: Clr.colorWhite,
@@ -137,7 +137,6 @@ class StoriesView extends StatelessWidget {
             ),
           ),
           const MyDivider(),
-
         ],
       ),
     );
