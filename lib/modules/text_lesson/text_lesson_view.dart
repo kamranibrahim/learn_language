@@ -4,7 +4,6 @@ import 'package:get/get.dart';
 import 'package:my_widgets/my_widgets.dart';
 import 'package:my_widgets/widgets/dividers.dart';
 import 'package:my_widgets/widgets/txt.dart';
-
 import '../../S.dart';
 import '../../utils/utils.dart';
 
