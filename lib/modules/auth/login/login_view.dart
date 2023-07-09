@@ -1,12 +1,11 @@
-import 'package:c_s/modules/login/login_logic.dart';
+import 'package:c_s/utils/utils.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:my_widgets/widgets/btn.dart';
 import 'package:my_widgets/widgets/dividers.dart';
 import 'package:my_widgets/widgets/input.dart';
 import 'package:my_widgets/widgets/txt.dart';
-
-import '../../utils/utils.dart';
+import 'login_logic.dart';
 
 class LoginView extends StatelessWidget {
   const LoginView({Key? key}) : super(key: key);

@@ -7,7 +7,7 @@ class Clr {
   static  Color colorPrimaryDark = const Color(0xFFFF4984);
   static  Color colorPrimary = const Color(0xFFFF4984);
   static  Color colorSecondary = const Color(0xFFFFC266);
-  static  Color colorPrimaryLight = const Color(0xFF6A858C);
+  static  Color colorPrimaryLight = const Color(0xFFFFE6EE);
   static  Color colorMediumGrey = const Color(0xFF395D65);
   static  Color colorYellow = const Color(0xFFFFE259);
   static  Color colorYellowLight = const Color(0xFFDDFC82 );

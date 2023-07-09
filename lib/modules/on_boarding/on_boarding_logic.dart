@@ -1,7 +1,9 @@
-import 'package:c_s/modules/login/login_view.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:my_widgets/my_widgets.dart';
+
+import '../auth/login/login_view.dart';
 
 class OnBoardLogic extends GetxController {
   PageController pageController = PageController();

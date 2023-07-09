@@ -10,6 +10,6 @@ class DashboardLogic extends GetxController{
   }
 
   onTextTap() {
-    pSetRout(page: ()=> const StoriesView());
+    pSetRout(page: ()=> const StoriesView(isFromText: true,));
   }
 }
